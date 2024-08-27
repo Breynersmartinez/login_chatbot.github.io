@@ -8,7 +8,7 @@ function openDocument() {
 document.getElementById('siguienteBtn').addEventListener('click', function() {
     // Redirige a la página 'index.html' al hacer clic en el botón
    
-    window.location.href = 'https://github.com/Breynersmartinez/Chat_chatbot.github.io/settings/pages';
+    window.location.href = 'https://breynersmartinez.github.io/Chat_chatbot.github.io/';
 });
 
 // Función para abrir un documento en una nueva ventana al hacer clic en el botón
